@@ -27,7 +27,7 @@
   ],
   "Networks": [
     {
-      "Name": "💙TIM [SSL 1]",
+      "Name": "TIM [SSL 1]",
       "FLAG": "tim",
       "Payload": "GET wss://cdnjs.cloudflare.com  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "cdnjs.cloudflare.com",
